@@ -1,0 +1,6 @@
++ Made esp smoother
++ Added crosshair customization. + Made aimbot smoother
++ Kinda fixed prediction(aimbot)
++ Updated config system to work with latest version
+- Removed radar since it was buggy(unreleased)
+- Removed looklines(buggy&unreleased)
