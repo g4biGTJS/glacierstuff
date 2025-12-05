@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1764955475663",
+    "title": "TEST",
+    "description": "test news",
+    "date": "2025-12-05",
+    "image": "https://placehold.co/800x400/0a1824/00ffff?text=TEST"
+  }
+]
